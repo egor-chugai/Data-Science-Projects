@@ -1,2 +1,2 @@
-# Data-Science-Projects
-Data analysis and machine learning projects
+# ds_projects
+data analysis and machine learning projects
